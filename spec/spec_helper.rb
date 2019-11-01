@@ -10,3 +10,6 @@ require_relative '../lib/transfer'
 RSpec.configure do |config|
   config.order = 'default'
 end
+
+# bob = BankAccount.new("Bob")
+# dan = BankAccount.new("Dan")
